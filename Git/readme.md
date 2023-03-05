@@ -1,8 +1,8 @@
 [x] Git Flow
-[] Configurações das branches
-[] Pull Requests / Templates para PR
-[] Code Review
-[] CodeOwners
-[] Plugin do VSCode
-[] SemVer
+[x] Configurações das branches
+[x] Pull Requests / Templates para PR
+[x] Code Review
+[x] CodeOwners
+[x] Plugin do VSCode
+[x] SemVer
 [] Conventional Commits
